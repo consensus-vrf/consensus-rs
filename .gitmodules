@@ -1,0 +1,6 @@
+[submodule "crate/bls-signatures-rs"]
+	path = crate/bls-signatures-rs
+	url = https://github.com/consensus-vrf/bls-signatures-rs.git
+[submodule "crate/vrf-rs"]
+	path = crate/vrf-rs
+	url = https://github.com/consensus-vrf/vrf-rs.git
