@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["crate/vrf-rs", "crate/bls-signatures-rs"]
